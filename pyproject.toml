@@ -1,0 +1,20 @@
+[project]
+name = "jev-evaluations"
+description = "FOMC evaluation examples using Jev through Pydantic AI and TypeSafe"
+readme = "README.md"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic-ai[bedrock,groq,typesafe]>=2.49.0",
+    "python-dotenv>=1.2.3",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+    "ruff>=0.16.8",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

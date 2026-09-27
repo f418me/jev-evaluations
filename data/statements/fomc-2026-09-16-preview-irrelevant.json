@@ -1,0 +1,8 @@
+{
+  "uuid": "curl-test-fomc-20260916-preview-irrelevant",
+  "type": "web-monitor",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/preview20260916.htm",
+  "content-id": "fomc-preview-20260916-irrelevant",
+  "content": "Analysts preview the September 15-16 FOMC meeting. Market participants overwhelmingly expect the Federal Reserve to raise interest rates by 25 basis points, but no official decision has been announced. This article summarizes possible scenarios and historical market reactions.",
+  "ip": "127.0.0.1"
+}

@@ -1,0 +1,8 @@
+{
+  "uuid": "curl-test-fomc-20260916-hawkish-50bp-negative",
+  "type": "web-monitor",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+  "content-id": "monetary20260916a-hawkish-50bp-negative",
+  "content": "Federal Reserve issues FOMC statement. The Federal Open Market Committee decided to raise the target range for the federal funds rate by 1/2 percentage point to 4.00 to 4.25 percent. The Committee remains deeply concerned that inflation is not moving sufficiently toward its 2 percent objective and judges that inflation expectations could become less well anchored without a more restrictive stance. Economic activity has continued to expand at a solid pace, and labor market conditions remain strong. The Committee anticipates that additional firming of policy may be appropriate at upcoming meetings if inflation does not show clear and sustained progress.",
+  "ip": "127.0.0.1"
+}

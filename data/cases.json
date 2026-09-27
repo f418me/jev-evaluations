@@ -1,0 +1,28 @@
+[
+  {
+    "name": "expected-hike",
+    "file": "fomc-2026-09-16-expected-25bp-hawkish-neutral.json",
+    "expected": "neutral"
+  },
+  {
+    "name": "surprise-hold",
+    "file": "fomc-2026-09-16-surprise-hold-dovish-positive.json",
+    "expected": "positive"
+  },
+  {
+    "name": "hawkish-50bp",
+    "file": "fomc-2026-09-16-hawkish-50bp-negative.json",
+    "expected": "negative"
+  },
+  {
+    "name": "dovish-hike",
+    "file": "fomc-2026-09-16-dovish-hike-positive.json",
+    "expected": "positive"
+  },
+  {
+    "name": "preview",
+    "file": "fomc-2026-09-16-preview-irrelevant.json",
+    "expected": "abstain",
+    "llm_expected": "irrelevant"
+  }
+]

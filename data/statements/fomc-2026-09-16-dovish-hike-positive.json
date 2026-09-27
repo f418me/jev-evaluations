@@ -1,0 +1,8 @@
+{
+  "uuid": "curl-test-fomc-20260916-dovish-hike-positive",
+  "type": "web-monitor",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+  "content-id": "monetary20260916a-dovish-hike-positive",
+  "content": "Federal Reserve issues FOMC statement. The Federal Open Market Committee decided to raise the target range for the federal funds rate by 1/4 percentage point to 3.75 to 4.00 percent. The Committee noted that this action helps guard against persistent inflation, but also emphasized that policy is now sufficiently restrictive. The Committee expects to keep the target range unchanged for some time while it evaluates incoming data. Recent indicators point to slower job growth and softer consumer demand, and the Committee sees downside risks to economic activity and employment as having increased. Further rate increases are not anticipated unless inflation materially reaccelerates.",
+  "ip": "127.0.0.1"
+}

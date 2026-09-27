@@ -1,0 +1,8 @@
+{
+  "uuid": "curl-test-fomc-20260916-surprise-hold-dovish-positive",
+  "type": "web-monitor",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+  "content-id": "monetary20260916a-surprise-hold-dovish-positive",
+  "content": "Federal Reserve issues FOMC statement. The Federal Open Market Committee decided to maintain the target range for the federal funds rate at 3.50 to 3.75 percent. The Committee judged that maintaining the current stance of policy is appropriate while it assesses the balance of risks. Although inflation remains above the Committee's 2 percent objective, recent information suggests that tighter financial conditions and softer household demand may weigh on economic activity. Job gains have moderated, and downside risks to employment have increased. The Committee will proceed carefully and does not judge additional firming to be appropriate at this time.",
+  "ip": "127.0.0.1"
+}
